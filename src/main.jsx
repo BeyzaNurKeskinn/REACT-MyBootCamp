@@ -6,6 +6,6 @@ import AppSub from './AppSub.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-   <AppSub /> 
+   <App /> 
   </StrictMode>
 )

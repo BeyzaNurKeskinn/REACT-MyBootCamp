@@ -1,7 +1,7 @@
 
-const Text2 = () => {
+const Text2 = ({name}) => {
     return (
-      <div>react eğitimi 5</div>
+      <div>{name}</div>
     )
   }
   
