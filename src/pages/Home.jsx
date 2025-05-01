@@ -1,9 +1,24 @@
-import Text2 from "../components/Text2"
-
 const Home = () => {
+  const data =[
+    {
+      id:0,
+      name:"React",
+      description:"React açıklama"
+    },
+    {
+      id:1,
+      name:"React",
+      description:"React açıklama"
+    },
+    {
+      id:2,
+      name:"React",
+      description:"React açıklama"
+    },
+  ]
   return (
     <div>
-      <Text2/>
+    Home
     </div>
   )
 }
