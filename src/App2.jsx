@@ -1,5 +1,7 @@
 import React, { useState,useEffect } from 'react'
 
+.
+
 function App2() {
   const [name, setName] = useState("react")
   
